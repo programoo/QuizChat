@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuizChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- second page string -->
+    <string name="show_image_contentdescriber">show image</string>
+	<string name="edit_message">พิมพ์คำตอบที่นี่</string>
+    
+    
+</resources>
